@@ -1,4 +1,4 @@
-module github.com/BukinPK/struct-to-bson-2/mapper
+module github.com/BukinPK/struct-to-bson-2
 
 go 1.21
 
